@@ -1,4 +1,12 @@
-## Hi there 👋
+✨Hi, my name is Ellen Poli. 
+
+🌍 I am a Geoinformatics Engineering student at Politecnico di Milano with a passion for applying machine learning and data science to environmental and geospatial problems. My research focuses for my master's thesis project on utilizing deep learning and advanced data analysis to address challenges like Arctic ice prediction and environmental monitoring.
+
+🌱 I worked on various projects, including the analysis of glacier retreat using satellite data, time series forecasting with deep learning models, and landslide risk assessment in Northern Italy. I aim to leverage my skills in Python, machine learning, GIS, and remote sensing to contribute to innovative solutions in environmental engineering.
+
+💬 Let's connect! Feel free to explore my projects and collaborate with me on GitHub.
+
+📫 You can reach me out via [email](poliellen18@gmail.com) and [Linkedin](https://www.linkedin.com/in/ellen-poli/).
 
 <!--
 **Ellenn17/Ellenn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
